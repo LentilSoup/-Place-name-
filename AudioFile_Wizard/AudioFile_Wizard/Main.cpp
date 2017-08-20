@@ -6,7 +6,8 @@ using namespace experimental::filesystem;
 
 
 
-int main() {
+int main() 
+{
 	string PATH;
 
 	cout << "AudioFile Wizard Started" << endl;
