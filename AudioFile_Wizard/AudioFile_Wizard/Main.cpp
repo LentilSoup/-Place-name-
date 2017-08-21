@@ -10,7 +10,7 @@ int main()
 
 	cout << "AudioFile Wizard Started" << endl;
 	cout << "Input file path" << endl;
-	cout << "Example: C:\\Program Files\\Java\\" << endl;
+	cout << "Example: C:\\Users\\John Smith\\Music\\FileName.wav" << endl;
 	cout << "Enter Path: ", cin >> PATH;
 	
 	return 0;
